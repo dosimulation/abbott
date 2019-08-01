@@ -1,0 +1,150 @@
+/* UCLA Colors */
+:root {
+	--dark-gray: #2a2b33;
+	--light-gray: #d9d9d7;
+	--purple: #470A68;
+	--dark-blue: #002a3a;
+	--cyan: #5BC2E7;
+}
+
+/* Align  */
+.centeredDiv { margin: 0 auto; }
+
+#page { position: relative; font-family: arial; font-size: 16px; font-weight: 300px; }
+body {margin: 0; background-color: var(--dark-gray); }
+
+p {
+line-height: 1.6;
+margin: 0% 5%;
+font-size:20px;
+}
+
+/* Background */
+.purpleBg { background-color: var(--purple); color: white; } 
+.whiteBg { background-color: white; }
+
+
+/* Navigation */
+nav {  position: relative;  top:100%; z-index: 10; text-transform: uppercase; }
+nav::after { content:''; display: block; clear: both; }
+
+nav.nav_head { float: right; right: 15px; font-size: 0.8em; }
+nav.main_menu { float: left; left: 5%;  font-size: 0.95em; font-weight: bold; }
+
+
+
+nav ul { list-style: none; margin: 0; padding: 0px;  }
+nav  ul li:hover { color: var(--cyan); }
+nav ul li a { display: inline-block; color: white; padding: 10px 20px; text-decoration: none; vertical-align: middle;}
+nav  ul li a:visted { color: white; }
+nav  ul li a:hover { color: var(--cyan); }
+
+
+/* Top Level Navigation */
+nav > ul { text-align: center; width: 100%; }
+nav > ul > li { display: inline-block; }
+nav > ul > li > a { width: auto;}
+
+
+/* Section */
+section { width: 90%; margin: 0 auto; } 
+section::after { content: '';  display:block; clear: both;  }
+
+section.head { text-align: right;  background-color: var(--dark-blue);}
+section.main_menu{ width: 100%; background-color: black; }
+section.sub_menu{ width: 100%; background-color: var(--light-gray); padding: 10px 0px; font-size: 0.8em;  }
+section.sub_menu div { margin-left: 7%; }
+
+section.hero { padding: 0px; }
+section.hero img.banner { min-width: 100%; min-height: initial; max-width:100%; }
+
+
+section.oneColumn { width: 86%; padding: 30px; margin-left: auto; margin-right: auto;   padding-top: 40px; }
+section.oneColumn * { padding: 5px; } 
+
+
+/* Footer */
+footer { width: 90%; margin: 0 auto; height: auto; background: black; color: white; padding-top: 40px; } 
+footer div.content { padding:50px 0px;  text-align:center;}
+footer div.nav { display: flex; justify-content: space-between; padding: 0 15%; }
+footer div.nav ul { list-style: none; margin: 0; padding: 0px; text-transform: uppercase; }
+footer div.nav ul li { padding: 5px 0; font-size: 0.8em; text-align: left;}
+footer div.disclaimer { padding:  30px 15%; font-size: 0.75em; }
+
+h1,h2,h3,h4,h5,h6,.ms-h1,.ms-h2,.ms-h3,.ms-h4,.ms-h5,.ms-h6
+{
+margin:auto;
+font-weight:normal;
+margin: 0% 2%;
+}
+h1,
+.ms-h1
+{
+font-family:"Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+font-size:2.3em;
+color:#777;
+font-weight:200;
+}
+h2,h3,.ms-h2,.ms-h3,
+.ms-headerFont
+{
+font-family:"Segoe UI Semilight","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+color:#000000;
+font-weight:300;
+}
+h2,.ms-h2
+{
+font-size:1.46em;
+}
+h3,.ms-h3
+{
+font-size:1.45em;
+color:#000000;
+font-weight:500;
+}
+h4,h5,h6,.ms-h4,.ms-h5,.ms-h6
+{
+font-family:"Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+}
+h4,.ms-h4
+{
+font-size:1em;
+color:#262626;
+}
+h5,.ms-h5
+{
+font-size:1em;
+}
+h6,.ms-h6
+{
+font-size:1em;
+}
+
+ul {
+style="list-style-type:disc; 
+line-height: 1.6;
+margin: 0% 7.5%;
+font-size:18px;
+}
+
+ol {
+line-height: 1.6;
+margin: 0% 3.5%;
+font-size:20px;	
+}
+
+
+section.twoColumn { 
+	.column {
+     float: left;
+     width: 50%;
+    padding: 10px;
+    }
+    .row:after {
+  content: "";
+  display: table;
+  clear: both;
+    }
+}
+section.twoColumn * { padding: 5px; } 
+

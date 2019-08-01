@@ -1,0 +1,195 @@
+id,person_id,Date,pick_up_loc,drop_off_loc,Reason_firsttime,first_time,age,sex,race,language,health_ins,MTS_reason,hlth_appt,hlth_appt_score,missed_appt,missed_appt_score,ER,ER_visit,diabetes_diag,pre_diab_diag,health_status
+1001,B1,2/1/2018,Ventura Blvd,Venice Family Clinic,Check up,1,54,Male,Hispanic,English,other,other,14,3,4,4,No,0,Yes,No,Fair/poor
+1002,B2,3/2/2018,Ventura Blvd,Venice Family Clinic,Check up,0,91,Female,Hispanic,English,other,other,2,3,9,4,No,0,Yes,No,Fair/poor
+1003,B3,4/3/2018,Ventura Blvd,Venice Family Clinic,Check up,1,63,Female,Hispanic,English,other,other,5,2,8,2,No,0,No,Yes,Fair/poor
+1004,B4,5/4/2018,Ventura Blvd,Venice Family Clinic,Check up,1,92,Male,Hispanic,English,other,other,6,3,4,3,No,0,Yes,Yes,Fair/poor
+1005,B5,6/5/2018,Ventura Blvd,Venice Family Clinic,Check up,0,21,Male,Hispanic,English,other,other,11,2,7,2,Yes,8,Yes,Yes,Excellent/Very good/good
+1006,B6,7/6/2018,Ventura Blvd,Venice Family Clinic,Check up,1,17,Male,Hispanic,English,other,other,15,4,4,1,Yes,9,Yes,Yes,Excellent/Very good/good
+1007,B7,8/7/2018,Ventura Blvd,Venice Family Clinic,Check up,1,87,Female,Hispanic,English,other,other,19,2,9,3,No,0,Yes,No,Fair/poor
+1008,B8,9/8/2018,Ventura Blvd,Venice Family Clinic,Check up,0,32,Male,Hispanic,English,other,other,2,1,7,2,Yes,2,No,No,Excellent/Very good/good
+1009,B9,10/9/2018,Ventura Blvd,Venice Family Clinic,Check up,1,17,Female,Hispanic,English,other,other,12,2,9,4,No,0,No,No,Fair/poor
+1010,B10,11/10/2018,Ventura Blvd,Venice Family Clinic,Check up,0,8,Female,Hispanic,English,other,other,8,2,1,2,Yes,14,Yes,No,Fair/poor
+1011,B11,12/11/2018,Ventura Blvd,Venice Family Clinic,Check up,0,9,Female,Hispanic,English,other,other,17,2,2,4,Yes,9,Yes,Yes,Excellent/Very good/good
+1012,B12,1/12/2018,Ventura Blvd,Venice Family Clinic,Check up,0,17,Male,Hispanic,English,other,other,19,4,5,2,Yes,5,No,Yes,Fair/poor
+1013,B13,2/13/2018,Ventura Blvd,Venice Family Clinic,Check up,1,70,Male,Hispanic,English,other,other,6,3,7,4,No,0,No,No,Fair/poor
+1014,B14,3/14/2018,Ventura Blvd,Venice Family Clinic,Check up,1,33,Male,Hispanic,English,other,other,1,1,5,4,No,0,No,No,Fair/poor
+1015,B15,4/15/2018,Ventura Blvd,Venice Family Clinic,Check up,1,22,Male,Hispanic,English,other,other,10,4,2,3,No,0,No,No,Excellent/Very good/good
+1016,B16,5/16/2018,Ventura Blvd,Venice Family Clinic,Check up,0,1,Female,Hispanic,English,other,other,12,2,3,2,Yes,6,Yes,No,Fair/poor
+1017,B17,6/17/2018,Ventura Blvd,Venice Family Clinic,Check up,1,57,Male,Hispanic,English,other,other,5,2,6,3,No,0,No,Yes,Excellent/Very good/good
+1018,B18,7/18/2018,Ventura Blvd,Venice Family Clinic,Check up,0,54,Male,Hispanic,English,other,other,10,1,6,2,No,0,Yes,No,Excellent/Very good/good
+1019,B19,8/19/2018,Ventura Blvd,Venice Family Clinic,Check up,1,88,Female,Hispanic,English,other,other,4,4,9,4,No,0,No,Yes,Excellent/Very good/good
+1020,B20,9/20/2018,Ventura Blvd,Venice Family Clinic,Check up,0,24,Female,Hispanic,English,other,other,17,1,5,4,No,0,No,Yes,Fair/poor
+1021,B21,10/21/2018,Ventura Blvd,Venice Family Clinic,Check up,0,94,Female,Hispanic,English,other,other,11,1,3,2,Yes,18,No,Yes,Excellent/Very good/good
+1022,B22,11/22/2018,Ventura Blvd,Venice Family Clinic,Check up,0,93,Male,Hispanic,English,other,other,18,4,9,3,No,0,Yes,No,Fair/poor
+1023,B23,12/23/2018,Ventura Blvd,Venice Family Clinic,Check up,1,88,Female,Hispanic,English,other,other,3,1,5,1,No,0,Yes,No,Excellent/Very good/good
+1024,B24,1/24/2018,Ventura Blvd,Venice Family Clinic,Check up,1,86,Male,Hispanic,English,other,other,3,2,1,2,No,0,No,No,Fair/poor
+1025,B25,2/25/2018,Ventura Blvd,Venice Family Clinic,Check up,0,74,Male,Hispanic,English,other,other,12,4,5,3,No,0,No,Yes,Excellent/Very good/good
+1026,B26,3/26/2018,Ventura Blvd,Venice Family Clinic,Check up,0,83,Female,Hispanic,English,other,other,10,4,3,3,No,0,Yes,Yes,Fair/poor
+1027,B27,4/27/2018,Ventura Blvd,Venice Family Clinic,Check up,1,61,Female,Hispanic,English,other,other,18,2,4,3,Yes,9,No,Yes,Excellent/Very good/good
+1028,B28,5/28/2018,Ventura Blvd,Venice Family Clinic,Check up,1,2,Male,Hispanic,English,other,other,13,3,4,4,Yes,3,Yes,No,Fair/poor
+1029,B29,6/29/2018,Ventura Blvd,Venice Family Clinic,Check up,0,3,Male,Hispanic,English,other,other,15,1,7,4,Yes,12,No,No,Fair/poor
+1030,B31,8/1/2018,Ventura Blvd,Venice Family Clinic,Check up,1,22,Female,Hispanic,English,other,other,17,4,9,3,No,0,No,No,Fair/poor
+1031,B32,9/2/2018,Ventura Blvd,Venice Family Clinic,Check up,0,71,Female,Hispanic,English,other,other,16,3,7,2,No,0,Yes,Yes,Fair/poor
+1032,B33,10/3/2018,Ventura Blvd,Venice Family Clinic,Check up,1,1,Male,Hispanic,English,other,other,5,3,9,3,No,0,Yes,No,Excellent/Very good/good
+1033,B34,11/4/2018,Ventura Blvd,Venice Family Clinic,Check up,0,28,Female,Hispanic,English,other,other,18,4,1,1,Yes,11,Yes,No,Fair/poor
+1034,B35,12/5/2018,Ventura Blvd,Venice Family Clinic,Check up,1,17,Male,Hispanic,English,other,other,2,2,9,4,No,0,No,Yes,Excellent/Very good/good
+1035,B36,1/6/2018,Ventura Blvd,Venice Family Clinic,Check up,0,93,Female,Hispanic,English,other,other,15,3,9,4,Yes,19,No,No,Fair/poor
+1036,B37,2/7/2018,Ventura Blvd,Venice Family Clinic,Check up,1,59,Female,Hispanic,English,other,other,1,1,3,3,Yes,10,Yes,No,Excellent/Very good/good
+1037,B38,3/8/2018,Ventura Blvd,Venice Family Clinic,Check up,0,60,Female,Hispanic,English,other,other,5,2,8,1,Yes,7,No,Yes,Fair/poor
+1038,B39,4/9/2018,Ventura Blvd,Venice Family Clinic,Check up,0,6,Female,Hispanic,English,other,other,4,4,6,4,Yes,19,Yes,Yes,Fair/poor
+1039,B40,5/10/2018,Ventura Blvd,Venice Family Clinic,Check up,0,97,Male,Hispanic,English,other,other,13,2,5,2,Yes,4,No,No,Excellent/Very good/good
+1040,B41,6/11/2018,Ventura Blvd,Venice Family Clinic,Check up,0,78,Female,Hispanic,English,other,other,1,2,6,2,No,0,Yes,Yes,Excellent/Very good/good
+1041,B42,7/12/2018,Ventura Blvd,Venice Family Clinic,Check up,1,48,Female,Asian,Spanish,other,other,9,4,4,3,Yes,10,No,No,Fair/poor
+1042,B43,8/13/2018,Ventura Blvd,Venice Family Clinic,Check up,1,80,Male,Asian,Spanish,other,other,13,1,5,2,Yes,19,No,Yes,Fair/poor
+1043,B44,9/14/2018,Ventura Blvd,Venice Family Clinic,Check up,0,76,Female,Asian,Spanish,other,other,4,1,9,1,Yes,3,No,No,Fair/poor
+1044,B45,10/15/2018,Ventura Blvd,Venice Family Clinic,Check up,1,79,Female,Asian,Spanish,other,other,10,1,2,3,No,0,No,No,Fair/poor
+1045,B46,11/16/2018,Ventura Blvd,Venice Family Clinic,Check up,0,71,Male,Asian,Spanish,other,other,19,4,7,2,No,0,No,Yes,Fair/poor
+1046,B47,12/17/2018,Ventura Blvd,Venice Family Clinic,Check up,0,20,Female,Asian,Spanish,other,other,9,4,7,2,No,0,Yes,No,Excellent/Very good/good
+1047,B48,1/18/2018,Ventura Blvd,Venice Family Clinic,Check up,0,91,Male,Asian,Spanish,other,other,18,2,3,3,No,0,Yes,Yes,Excellent/Very good/good
+1048,B49,2/19/2018,Ventura Blvd,Venice Family Clinic,Check up,0,27,Female,Asian,Spanish,other,other,18,2,1,4,No,0,Yes,No,Excellent/Very good/good
+1049,B50,3/20/2018,Ventura Blvd,Venice Family Clinic,Check up,1,13,Female,Asian,Spanish,other,other,7,3,7,4,Yes,5,Yes,Yes,Excellent/Very good/good
+1050,B51,4/21/2018,Ventura Blvd,Venice Family Clinic,Check up,0,82,Male,Asian,Spanish,other,other,9,2,7,3,Yes,19,No,No,Excellent/Very good/good
+1051,B52,5/22/2018,Ventura Blvd,Venice Family Clinic,Check up,0,43,Male,Asian,Spanish,other,other,15,1,7,2,Yes,10,No,Yes,Excellent/Very good/good
+1052,B53,6/23/2018,Ventura Blvd,Venice Family Clinic,Check up,1,77,Female,Asian,Spanish,other,other,10,1,9,3,No,0,Yes,Yes,Fair/poor
+1053,B54,7/24/2018,Ventura Blvd,Venice Family Clinic,Check up,0,2,Female,Asian,Spanish,other,other,18,3,6,4,Yes,10,Yes,Yes,Excellent/Very good/good
+1054,B55,8/25/2018,Ventura Blvd,Venice Family Clinic,Check up,0,69,Female,Asian,Spanish,other,other,1,4,3,4,Yes,15,No,Yes,Excellent/Very good/good
+1055,B56,9/26/2018,Ventura Blvd,Venice Family Clinic,Check up,0,15,Male,Asian,Spanish,other,other,5,3,4,1,Yes,6,No,Yes,Excellent/Very good/good
+1056,B57,10/27/2018,Ventura Blvd,Bell Clinic,Check up,0,70,Female,Asian,Spanish,Healthy Families,No access to car,2,4,9,3,Yes,17,Yes,Yes,Excellent/Very good/good
+1057,B58,11/28/2018,Ventura Blvd,Bell Clinic,Check up,1,53,Male,Asian,Spanish,Healthy Families,No access to car,7,1,7,2,Yes,14,Yes,Yes,Fair/poor
+1058,B59,12/29/2018,Ventura Blvd,Bell Clinic,Check up,1,59,Female,Asian,Spanish,Healthy Families,No access to car,8,3,9,1,Yes,19,Yes,No,Fair/poor
+1059,B61,2/1/2018,Ventura Blvd,Bell Clinic,Check up,0,93,Female,Asian,Spanish,Healthy Families,No access to car,12,1,7,3,No,0,Yes,No,Excellent/Very good/good
+1060,B62,3/2/2018,Ventura Blvd,Bell Clinic,Check up,1,91,Male,Asian,Spanish,Healthy Families,No access to car,11,4,5,3,No,0,Yes,Yes,Excellent/Very good/good
+1061,B63,4/3/2018,Ventura Blvd,Bell Clinic,Check up,1,76,Male,Asian,Spanish,Healthy Families,No access to car,3,3,7,2,Yes,12,Yes,Yes,Fair/poor
+1062,B64,5/4/2018,Ventura Blvd,Bell Clinic,Check up,1,36,Male,Asian,Spanish,Healthy Families,No access to car,5,4,1,4,No,0,No,No,Fair/poor
+1063,B65,6/5/2018,Ventura Blvd,Bell Clinic,Check up,1,6,Male,Asian,Spanish,Healthy Families,No access to car,4,2,3,3,Yes,14,No,No,Fair/poor
+1064,B66,7/6/2018,Ventura Blvd,Bell Clinic,Check up,1,23,Female,Asian,Spanish,Healthy Families,No access to car,1,1,6,3,No,0,Yes,Yes,Excellent/Very good/good
+1065,B67,8/7/2018,Ventura Blvd,Bell Clinic,Check up,1,7,Male,Asian,Spanish,Healthy Families,No access to car,2,3,8,3,Yes,8,No,No,Fair/poor
+1066,B68,9/8/2018,Ventura Blvd,Bell Clinic,Check up,1,88,Male,Asian,Spanish,Healthy Families,No access to car,5,3,6,1,Yes,16,No,No,Excellent/Very good/good
+1067,B69,10/9/2018,Ventura Blvd,Bell Clinic,Check up,1,20,Female,Asian,Spanish,Healthy Families,No access to car,17,3,7,2,No,0,Yes,Yes,Fair/poor
+1068,B70,11/10/2018,Ventura Blvd,Bell Clinic,Check up,1,82,Male,Asian,Spanish,Healthy Families,No access to car,2,2,5,1,Yes,7,No,Yes,Fair/poor
+1069,B71,12/11/2018,Ventura Blvd,Bell Clinic,Check up,1,44,Male,Asian,Spanish,Healthy Families,No access to car,7,3,9,3,Yes,1,No,No,Fair/poor
+1070,B72,1/12/2018,Ventura Blvd,Bell Clinic,Check up,0,20,Female,Asian,Spanish,Healthy Families,No access to car,15,1,9,1,No,0,No,No,Excellent/Very good/good
+1071,B73,2/13/2018,Ventura Blvd,Bell Clinic,Check up,1,72,Female,Asian,Spanish,Healthy Families,No access to car,12,4,5,3,Yes,10,No,No,Excellent/Very good/good
+1072,B74,3/14/2018,Ventura Blvd,Bell Clinic,Check up,0,99,Female,Asian,Spanish,Healthy Families,No access to car,9,3,7,3,No,0,No,Yes,Fair/poor
+1073,B75,4/15/2018,Ventura Blvd,Bell Clinic,Check up,0,10,Male,Asian,Spanish,Healthy Families,No access to car,7,1,6,1,No,0,No,No,Excellent/Very good/good
+1074,B76,5/16/2018,Ventura Blvd,Bell Clinic,Check up,0,48,Male,Asian,Spanish,Healthy Families,No access to car,5,4,1,2,No,0,No,Yes,Fair/poor
+1075,B77,6/17/2018,Ventura Blvd,Bell Clinic,Check up,1,47,Male,Asian,Spanish,Healthy Families,No access to car,12,4,9,3,Yes,7,Yes,No,Excellent/Very good/good
+1076,B78,7/18/2018,Ventura Blvd,Bell Clinic,Check up,0,52,Male,Asian,Spanish,Healthy Families,No access to car,6,4,5,3,No,0,No,Yes,Fair/poor
+1077,B79,8/19/2018,Ventura Blvd,Bell Clinic,Check up,0,36,Male,Asian,Spanish,Healthy Families,No access to car,9,3,2,4,Yes,3,Yes,Yes,Fair/poor
+1078,B80,9/20/2018,Ventura Blvd,Bell Clinic,Check up,1,42,Female,Asian,Spanish,Healthy Families,No access to car,16,3,2,4,No,0,No,No,Fair/poor
+1079,B81,10/21/2018,Ventura Blvd,Bell Clinic,Check up,0,49,Male,Asian,Spanish,Healthy Families,No access to car,16,3,5,4,No,0,No,Yes,Fair/poor
+1080,B82,11/22/2018,Ventura Blvd,Bell Clinic,Check up,0,4,Female,Asian,Spanish,Healthy Families,No access to car,19,3,8,4,No,0,No,Yes,Excellent/Very good/good
+1081,B83,12/23/2018,Ventura Blvd,Bell Clinic,Check up,1,44,Male,African American,Mon-Khmer,Healthy Families,No access to car,11,1,1,4,No,0,Yes,No,Excellent/Very good/good
+1082,B84,1/24/2018,Ventura Blvd,Bell Clinic,Check up,1,61,Female,African American,Mon-Khmer,Healthy Families,No access to car,6,3,2,3,No,0,No,No,Fair/poor
+1083,B85,2/25/2018,Ventura Blvd,Bell Clinic,Check up,1,87,Male,African American,Mon-Khmer,Healthy Families,No access to car,14,3,3,4,No,0,Yes,No,Excellent/Very good/good
+1084,B86,3/26/2018,Ventura Blvd,Bell Clinic,Check up,0,76,Male,African American,Mon-Khmer,Healthy Families,No access to car,3,3,9,2,Yes,1,Yes,No,Excellent/Very good/good
+1085,B87,4/27/2018,Ventura Blvd,Bell Clinic,Check up,1,27,Female,African American,Mon-Khmer,Healthy Families,No access to car,1,4,5,4,Yes,19,No,No,Excellent/Very good/good
+1086,B88,5/28/2018,Ventura Blvd,Bell Clinic,Check up,0,69,Male,African American,Mon-Khmer,Healthy Families,No access to car,1,4,4,2,No,0,Yes,No,Excellent/Very good/good
+1087,B89,6/29/2018,Ventura Blvd,Bell Clinic,Check up,1,86,Female,African American,Mon-Khmer,Healthy Families,No access to car,6,4,7,4,No,0,Yes,No,Fair/poor
+1088,B91,8/1/2018,Ventura Blvd,Bell Clinic,Check up,1,93,Female,African American,Mon-Khmer,Healthy Families,No access to car,16,3,8,3,No,0,No,Yes,Fair/poor
+1089,B92,9/2/2018,Ventura Blvd,Bell Clinic,Check up,1,23,Male,African American,Mon-Khmer,Healthy Families,No access to car,19,2,5,2,Yes,14,Yes,Yes,Fair/poor
+1090,B93,10/3/2018,Ventura Blvd,Bell Clinic,Check up,0,83,Female,African American,Mon-Khmer,Healthy Families,No access to car,16,1,2,4,Yes,11,Yes,Yes,Excellent/Very good/good
+1091,B94,11/4/2018,Ventura Blvd,Bell Clinic,Check up,0,97,Male,African American,Mon-Khmer,Healthy Families,No access to car,10,4,7,1,No,0,No,No,Excellent/Very good/good
+1092,B95,12/5/2018,Ventura Blvd,Bell Clinic,Check up,1,19,Male,African American,Mon-Khmer,Healthy Families,No access to car,14,2,5,3,No,0,Yes,Yes,Fair/poor
+1093,B96,1/6/2018,Ventura Blvd,Bell Clinic,Check up,0,28,Male,African American,Mon-Khmer,Healthy Families,No access to car,19,4,9,2,No,0,No,No,Excellent/Very good/good
+1094,B97,2/7/2018,Ventura Blvd,Bell Clinic,Check up,1,73,Male,African American,Mon-Khmer,Healthy Families,No access to car,4,4,3,4,Yes,4,No,No,Excellent/Very good/good
+1095,B98,3/8/2018,Ventura Blvd,Bell Clinic,Check up,0,88,Male,African American,Mon-Khmer,Healthy Families,No access to car,6,2,8,4,No,0,No,Yes,Fair/poor
+1096,B99,4/9/2018,Ventura Blvd,Bell Clinic,Check up,1,93,Male,African American,Mon-Khmer,Healthy Families,No access to car,5,1,2,1,No,0,No,No,Excellent/Very good/good
+1097,B100,5/10/2018,Ventura Blvd,Bell Clinic,Check up,0,53,Female,African American,Mon-Khmer,Healthy Families,No access to car,17,3,8,4,No,0,Yes,Yes,Fair/poor
+1098,B101,6/11/2018,Ventura Blvd,Bell Clinic,Check up,1,13,Female,African American,Mon-Khmer,Healthy Families,No access to car,9,1,4,2,Yes,2,No,No,Fair/poor
+1099,B102,7/12/2018,Ventura Blvd,Bell Clinic,Check up,0,20,Male,African American,Mon-Khmer,Healthy Families,No access to car,16,3,1,3,No,0,No,Yes,Excellent/Very good/good
+1100,B103,8/13/2018,Ventura Blvd,Bell Clinic,Check up,0,42,Female,African American,Mon-Khmer,Healthy Families,No access to car,9,2,5,3,Yes,14,Yes,No,Fair/poor
+1101,B104,9/14/2018,Valley Blvd,CHC,Diabetes,1,29,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,10,4,6,2,Yes,19,No,No,Fair/poor
+1102,B105,10/15/2018,Valley Blvd,CHC,Diabetes,1,44,Female,African American,Mon-Khmer,Medicare,Other transit too expensive,8,3,3,2,No,0,Yes,Yes,Fair/poor
+1103,B106,11/16/2018,Valley Blvd,CHC,Diabetes,0,36,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,17,3,5,3,Yes,14,No,Yes,Fair/poor
+1104,B107,12/17/2018,Valley Blvd,CHC,Diabetes,0,91,Female,African American,Mon-Khmer,Medicare,Other transit too expensive,13,4,2,1,Yes,6,No,No,Fair/poor
+1105,B108,1/18/2018,Valley Blvd,CHC,Diabetes,0,30,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,10,4,4,4,No,0,No,No,Excellent/Very good/good
+1106,B109,2/19/2018,Valley Blvd,CHC,Diabetes,1,69,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,18,3,3,4,No,0,Yes,No,Excellent/Very good/good
+1107,B110,3/20/2018,Valley Blvd,CHC,Diabetes,1,71,Female,African American,Mon-Khmer,Medicare,Other transit too expensive,11,1,3,3,Yes,18,Yes,No,Fair/poor
+1108,B111,4/21/2018,Valley Blvd,CHC,Diabetes,1,80,Female,African American,Mon-Khmer,Medicare,Other transit too expensive,6,3,6,3,No,0,Yes,No,Fair/poor
+1109,B112,5/22/2018,Valley Blvd,CHC,Diabetes,1,48,Female,African American,Mon-Khmer,Medicare,Other transit too expensive,13,3,9,4,No,0,No,Yes,Excellent/Very good/good
+1110,B113,6/23/2018,Valley Blvd,CHC,Diabetes,0,68,Female,African American,Mon-Khmer,Medicare,Other transit too expensive,19,4,9,4,No,0,No,No,Excellent/Very good/good
+1111,B114,7/24/2018,Valley Blvd,CHC,Diabetes,1,64,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,6,4,8,3,No,0,No,No,Excellent/Very good/good
+1112,B115,8/25/2018,Valley Blvd,CHC,Diabetes,0,69,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,6,2,3,2,Yes,17,No,Yes,Excellent/Very good/good
+1113,B116,9/26/2018,Valley Blvd,CHC,Diabetes,1,95,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,13,2,5,4,No,0,No,Yes,Excellent/Very good/good
+1114,B117,10/27/2018,Valley Blvd,CHC,Diabetes,1,85,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,19,2,9,4,No,0,No,Yes,Excellent/Very good/good
+1115,B118,11/28/2018,Valley Blvd,CHC,Diabetes,1,77,Female,African American,Mon-Khmer,Medicare,Other transit too expensive,16,4,8,4,Yes,3,Yes,No,Excellent/Very good/good
+1116,B119,12/29/2018,Valley Blvd,CHC,Diabetes,1,14,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,3,2,5,2,No,0,Yes,No,Fair/poor
+1117,B121,2/1/2018,Valley Blvd,CHC,Diabetes,1,23,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,9,1,4,1,No,0,No,Yes,Fair/poor
+1118,B122,3/2/2018,Valley Blvd,CHC,Diabetes,0,30,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,14,1,4,3,Yes,4,No,No,Fair/poor
+1119,B123,4/3/2018,Valley Blvd,CHC,Diabetes,0,69,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,12,1,8,4,Yes,11,No,No,Excellent/Very good/good
+1120,B124,5/4/2018,Valley Blvd,CHC,Diabetes,0,52,Male,African American,Mon-Khmer,Medicare,Other transit too expensive,16,3,1,3,Yes,15,No,No,Excellent/Very good/good
+1121,B125,6/5/2018,Valley Blvd,CHC,Diabetes,0,15,Male,other,Punjabi,Medicare,Other transit too expensive,10,1,7,2,Yes,12,No,No,Excellent/Very good/good
+1122,B126,7/6/2018,Valley Blvd,CHC,Diabetes,0,61,Male,other,Punjabi,Medicare,Other transit too expensive,15,2,7,1,Yes,1,No,No,Fair/poor
+1123,B127,8/7/2018,Valley Blvd,CHC,Diabetes,0,50,Male,other,Punjabi,Medicare,Other transit too expensive,9,2,1,4,Yes,15,No,Yes,Excellent/Very good/good
+1124,B128,9/8/2018,Valley Blvd,CHC,Diabetes,0,19,Male,other,Punjabi,Medicare,Other transit too expensive,16,3,3,4,No,0,No,No,Excellent/Very good/good
+1125,B129,10/9/2018,Valley Blvd,CHC,Diabetes,1,61,Female,other,Punjabi,Medicare,Other transit too expensive,7,1,4,4,No,0,Yes,No,Fair/poor
+1126,B130,11/10/2018,Valley Blvd,CHC,Diabetes,1,15,Female,other,Punjabi,Medicare,Other transit too expensive,8,1,4,4,Yes,13,Yes,Yes,Excellent/Very good/good
+1127,B131,12/11/2018,Valley Blvd,CHC,Diabetes,1,83,Female,other,Punjabi,Medicare,Other transit too expensive,5,2,7,4,Yes,6,No,No,Fair/poor
+1128,B132,1/12/2018,Valley Blvd,CHC,Diabetes,0,96,Male,other,Punjabi,Medicare,Other transit too expensive,2,2,8,3,No,0,No,No,Excellent/Very good/good
+1129,B133,2/13/2018,Valley Blvd,CHC,Diabetes,0,81,Female,other,Punjabi,Medicare,Other transit too expensive,8,3,9,1,Yes,13,No,Yes,Excellent/Very good/good
+1130,B134,3/14/2018,Valley Blvd,CHC,Diabetes,0,50,Male,other,Punjabi,Medicare,Other transit too expensive,7,2,1,3,Yes,8,No,Yes,Excellent/Very good/good
+1131,B135,4/15/2018,Valley Blvd,CHC,Diabetes,1,17,Male,other,Punjabi,Medicare,Other transit too expensive,10,1,7,2,No,0,Yes,No,Excellent/Very good/good
+1132,B136,5/16/2018,Valley Blvd,CHC,Diabetes,1,75,Female,other,Punjabi,Medicare,Other transit too expensive,14,2,1,1,Yes,4,No,Yes,Fair/poor
+1133,B137,6/17/2018,Valley Blvd,CHC,Diabetes,1,8,Female,other,Punjabi,Medicare,Other transit too expensive,10,3,6,2,Yes,8,Yes,No,Fair/poor
+1134,B138,7/18/2018,Valley Blvd,CHC,Diabetes,0,17,Female,other,Punjabi,Medicare,Other transit too expensive,6,1,6,4,No,0,No,No,Excellent/Very good/good
+1135,B139,8/19/2018,Valley Blvd,CHC,Diabetes,0,82,Female,other,Punjabi,Medicare,Other transit too expensive,4,2,7,4,Yes,13,Yes,No,Excellent/Very good/good
+1136,B140,9/20/2018,Valley Blvd,CHC,Diabetes,1,61,Female,other,Punjabi,Medicare,Other transit too expensive,14,1,3,1,Yes,1,No,No,Fair/poor
+1137,B141,10/21/2018,Valley Blvd,CHC,Diabetes,0,91,Male,other,Punjabi,Medicare,Other transit too expensive,8,4,9,4,Yes,8,No,No,Fair/poor
+1138,B142,11/22/2018,Valley Blvd,CHC,Diabetes,0,8,Male,other,Punjabi,Medicare,Other transit too expensive,17,4,3,3,No,0,No,No,Fair/poor
+1139,B143,12/23/2018,Valley Blvd,CHC,Diabetes,1,11,Male,other,Punjabi,Medicare,Other transit too expensive,14,4,8,2,No,0,No,No,Excellent/Very good/good
+1140,B144,1/24/2018,Valley Blvd,CHC,Diabetes,0,29,Female,other,Punjabi,Medicare,Other transit too expensive,8,2,3,3,Yes,15,Yes,No,Excellent/Very good/good
+1141,B145,2/25/2018,Valley Blvd,CHC,Diabetes,0,2,Female,other,Punjabi,Medicare,Other transit too expensive,18,4,5,2,Yes,1,No,No,Fair/poor
+1142,B146,3/26/2018,Valley Blvd,CHC,Diabetes,1,62,Male,other,Punjabi,Medicare,Other transit too expensive,5,3,9,1,Yes,1,Yes,Yes,Excellent/Very good/good
+1143,B147,4/27/2018,Valley Blvd,CHC,Diabetes,0,39,Male,other,Punjabi,Medicare,Other transit too expensive,6,1,1,2,Yes,9,No,Yes,Fair/poor
+1144,B148,5/28/2018,Valley Blvd,CHC,Diabetes,1,4,Female,other,Punjabi,Medicare,Other transit too expensive,18,4,8,4,No,0,No,Yes,Fair/poor
+1145,B149,6/29/2018,Valley Blvd,CHC,Diabetes,1,85,Female,other,Punjabi,Medicare,Other transit too expensive,10,3,2,4,Yes,3,Yes,No,Fair/poor
+1146,B151,8/1/2018,Valley Blvd,CHC,Diabetes,0,55,Male,other,Punjabi,Medicare,Other transit too expensive,1,4,5,4,Yes,6,No,Yes,Excellent/Very good/good
+1147,B152,9/2/2018,Valley Blvd,CHC,Diabetes,0,50,Male,other,Punjabi,Medicare,Other transit too expensive,9,2,6,4,No,0,Yes,No,Excellent/Very good/good
+1148,B153,10/3/2018,Valley Blvd,CHC,Diabetes,0,76,Male,other,Punjabi,Medicare,Other transit too expensive,12,3,9,2,Yes,3,Yes,No,Excellent/Very good/good
+1149,B154,11/4/2018,Valley Blvd,CHC,Diabetes,1,52,Female,other,Punjabi,Medicare,Other transit too expensive,10,2,3,4,Yes,9,Yes,No,Fair/poor
+1150,B155,12/5/2018,Valley Blvd,CHC,Diabetes,0,43,Female,other,Punjabi,Medicare,Other transit too expensive,19,2,7,1,Yes,3,Yes,No,Excellent/Very good/good
+1151,B156,1/6/2018,Valley Blvd,Stockton,Diabetes,1,40,Female,other,Punjabi,Medi-Cal,Public transportation unsafe,10,3,2,2,Yes,11,Yes,Yes,Fair/poor
+1152,B157,2/7/2018,Valley Blvd,Stockton,Diabetes,0,10,Female,other,Punjabi,Medi-Cal,Public transportation unsafe,18,1,5,2,No,0,Yes,No,Excellent/Very good/good
+1153,B158,3/8/2018,Valley Blvd,Stockton,Diabetes,1,64,Female,other,Punjabi,Medi-Cal,Public transportation unsafe,6,4,8,2,Yes,7,Yes,No,Fair/poor
+1154,B159,4/9/2018,Valley Blvd,Stockton,Diabetes,0,25,Male,other,Punjabi,Medi-Cal,Public transportation unsafe,18,1,1,2,No,0,No,No,Excellent/Very good/good
+1155,B160,5/10/2018,Valley Blvd,Stockton,Diabetes,1,43,Male,other,Punjabi,Medi-Cal,Public transportation unsafe,9,2,3,4,Yes,1,No,Yes,Fair/poor
+1156,B161,6/11/2018,Valley Blvd,Stockton,Diabetes,0,55,Male,other,Punjabi,Medi-Cal,Public transportation unsafe,3,3,4,3,Yes,19,No,No,Fair/poor
+1157,B162,7/12/2018,Valley Blvd,Stockton,Diabetes,0,13,Female,other,Punjabi,Medi-Cal,Public transportation unsafe,12,2,4,1,No,0,Yes,No,Excellent/Very good/good
+1158,B163,8/13/2018,Valley Blvd,Stockton,Diabetes,1,36,Female,other,Punjabi,Medi-Cal,Public transportation unsafe,10,1,6,4,No,0,No,Yes,Excellent/Very good/good
+1159,B164,9/14/2018,Valley Blvd,Stockton,Diabetes,0,76,Male,other,Punjabi,Medi-Cal,Public transportation unsafe,9,1,1,4,Yes,12,No,Yes,Excellent/Very good/good
+1160,B165,10/15/2018,Valley Blvd,Stockton,Diabetes,0,61,Female,other,Punjabi,Medi-Cal,Public transportation unsafe,11,1,7,1,Yes,13,Yes,Yes,Excellent/Very good/good
+1161,B166,11/16/2018,Valley Blvd,Stockton,Diabetes,1,16,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,12,2,3,1,Yes,10,No,Yes,Excellent/Very good/good
+1162,B167,12/17/2018,Valley Blvd,Stockton,Diabetes,0,52,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,13,1,2,2,No,0,Yes,No,Excellent/Very good/good
+1163,B168,1/18/2018,Valley Blvd,Stockton,Diabetes,1,3,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,7,2,3,4,Yes,5,Yes,Yes,Excellent/Very good/good
+1164,B169,2/19/2018,Valley Blvd,Stockton,Diabetes,0,42,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,16,4,1,4,Yes,4,No,No,Fair/poor
+1165,B170,3/20/2018,Valley Blvd,Stockton,Diabetes,1,55,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,5,2,9,1,Yes,14,Yes,Yes,Fair/poor
+1166,B171,4/21/2018,Valley Blvd,Stockton,Diabetes,0,56,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,6,2,4,3,No,0,Yes,No,Fair/poor
+1167,B172,5/22/2018,Valley Blvd,Stockton,Diabetes,1,98,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,13,2,6,1,No,0,No,Yes,Fair/poor
+1168,B173,6/23/2018,Valley Blvd,Stockton,Diabetes,0,37,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,14,2,8,2,Yes,4,Yes,No,Fair/poor
+1169,B174,7/24/2018,Valley Blvd,Stockton,Diabetes,0,17,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,1,3,4,4,Yes,1,Yes,Yes,Excellent/Very good/good
+1170,B175,8/25/2018,Valley Blvd,Stockton,Diabetes,1,9,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,18,2,3,1,No,0,Yes,Yes,Fair/poor
+1171,B176,9/26/2018,Valley Blvd,Stockton,Diabetes,1,34,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,4,2,1,4,Yes,1,Yes,No,Excellent/Very good/good
+1172,B177,10/27/2018,Valley Blvd,Stockton,Diabetes,1,4,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,2,4,9,4,No,0,No,No,Excellent/Very good/good
+1173,B178,11/28/2018,Valley Blvd,Stockton,Diabetes,1,24,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,10,1,7,3,No,0,Yes,Yes,Excellent/Very good/good
+1174,B179,12/29/2018,Valley Blvd,Stockton,Diabetes,1,25,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,9,3,9,2,No,0,No,Yes,Fair/poor
+1175,B181,2/1/2018,Valley Blvd,Stockton,Diabetes,1,30,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,1,1,3,4,No,0,No,Yes,Fair/poor
+1176,B182,3/2/2018,Valley Blvd,Stockton,Diabetes,0,80,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,11,1,6,3,Yes,9,No,Yes,Fair/poor
+1177,B183,4/3/2018,Valley Blvd,Stockton,Diabetes,1,7,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,10,1,9,4,No,0,Yes,No,Excellent/Very good/good
+1178,B184,5/4/2018,Valley Blvd,Stockton,Diabetes,1,73,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,10,4,7,2,No,0,No,Yes,Fair/poor
+1179,B185,6/5/2018,Valley Blvd,Stockton,Diabetes,0,4,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,14,3,6,1,Yes,8,Yes,No,Fair/poor
+1180,B186,7/6/2018,Valley Blvd,Stockton,Diabetes,1,65,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,12,2,8,2,Yes,15,No,No,Excellent/Very good/good
+1181,B187,8/7/2018,Valley Blvd,Stockton,Diabetes,0,99,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,7,1,5,2,No,0,Yes,No,Fair/poor
+1182,B188,9/8/2018,Valley Blvd,Stockton,Diabetes,0,57,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,6,2,6,1,Yes,18,Yes,Yes,Fair/poor
+1183,B189,10/9/2018,Valley Blvd,Stockton,Diabetes,1,68,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,16,1,5,3,Yes,8,No,Yes,Fair/poor
+1184,B190,11/10/2018,Valley Blvd,Stockton,Diabetes,1,73,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,19,1,7,2,Yes,18,Yes,No,Fair/poor
+1185,B191,12/11/2018,Valley Blvd,Stockton,Diabetes,0,30,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,5,1,3,2,No,0,No,Yes,Fair/poor
+1186,B192,1/12/2018,Valley Blvd,Stockton,Diabetes,1,6,Male,Caucasian,other,Medi-Cal,Public transportation unsafe,4,3,8,2,Yes,12,Yes,Yes,Fair/poor
+1187,B193,2/13/2018,Valley Blvd,Stockton,Diabetes,0,53,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,18,3,1,4,Yes,2,Yes,No,Excellent/Very good/good
+1188,B194,3/14/2018,Valley Blvd,Stockton,Diabetes,0,76,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,18,1,8,4,No,0,No,No,Fair/poor
+1189,B195,4/15/2018,Valley Blvd,Stockton,Diabetes,0,41,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,10,4,1,2,No,0,No,No,Excellent/Very good/good
+1190,B196,5/16/2018,Valley Blvd,Stockton,Diabetes,1,43,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,18,4,6,4,No,0,Yes,No,Excellent/Very good/good
+1191,B197,6/17/2018,Valley Blvd,Stockton,Diabetes,0,78,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,6,4,5,4,No,0,No,Yes,Fair/poor
+1192,B198,7/18/2018,Valley Blvd,Stockton,Diabetes,1,48,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,13,4,9,3,Yes,6,No,No,Fair/poor
+1193,B199,8/19/2018,Valley Blvd,Stockton,Diabetes,0,91,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,8,4,7,1,Yes,16,Yes,Yes,Fair/poor
+1194,B200,9/20/2018,Valley Blvd,Stockton,Diabetes,0,95,Female,Caucasian,other,Medi-Cal,Public transportation unsafe,8,2,1,4,Yes,19,No,No,Excellent/Very good/good
