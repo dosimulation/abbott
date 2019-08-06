@@ -14,6 +14,7 @@
 			    <section class="head">
 				<nav class="nav_head">
 					<ul>	
+						<li><a title="Site Admin" href="../../../")>Main Page</a></li>
 						<li><a title="Site Admin" href="../../../admin")>Admin</a></li>
 					</ul>
 				</nav>
@@ -49,103 +50,64 @@
 <li>Offer no-cost transportation service to community members between 8am – 4pm on weekdays, completing a “circuit” route that includes 11 preset pick-up/destination sites that are served 4 times daily, and providing door-to-door service for disabled individuals</li>
 <li>Transport an estimated 100 riders on a weekly basis to or from a medical appointment</li>
 </ul>
-</section>
-<section>
-<h3>Exhibit 1: MTS utilization</h3>
 
-<div class="row">
-  <div class="column whiteBg">
-    <p>
-	Data points (from MTS Driver Log, representing all participants; anticipated n=1200 over 3-month period):
+<h3>Exhibit 1: El Concilio MTS Utilization</h3>
+
+<p>Initial and repeated use of the MTS program is being documented by daily logs maintained by the drivers (Figure 1). This documentation includes information about pick-up and drop-off locations, reasons for visits/appointments, and whether visits/appointments are related to diabetes. 
 </p>
-<p>
-Total {{ nobs }} participants over 3-month period, including participation trends (i.e., increases/decreases) from Month 1 to Month 2 to Month 3
-Comparison of use by type of service, i.e., door-to-door van or circuit van; measures of initial uptake and frequency of participants’ repeated use by service type over a 3-month period (i.e., range/average # rides per unique user over 3-month period
-Draft template narrative: 
-Use of MTS was documented by daily driver logs which gather information from all passengers regarding their pick-up and drop-off locations, the reasons for their visits/appointments, whether the visit was related to diabetes, and whether or not they were a first-time passenger.
-As of 8/31/19, El Concilio has served XX unique participants through their Medical Transportation Service (MTS). Of the XX participants, YY percent were served by the circuit van while ZZ % were served by the door-to-door option.
-During this period, XX percent of participants used MTS one time only, another YY% used it twice, ZZ% used it three times, while the remaining QQ% used the transportation -service four or more times.
-There was a XX percent increase in overall use from Month 1 to Month 3 with qqq new riders in Month 2 and rrr new riders in Month 3. In addition, there was increased repeated use over the same time period, i.e., average of 1.3 trips per repeat users in Month 1 increasing to 1.8 trips per repeat users in Month 3. 
-Participants gave many different reasons for their use of MTS: XX% reported visits for primary care check-ups; YY% reported visits for preventive health care, such as flu shots; ZZ% were going to the pharmacy; QQ % were visiting for lab work; etc...
-XX % reported that their visit was related to diabetes.
-   </p></div>
+<ul>
+<li> Total {{ nobs }} individuals served through El Concilio's Medical Transportation Program </li>
+<li> XX Unique Individuals Served </li>
+<li> Average of XX rides per person </li>
+<li> Of the XX total riders, XX% were served by the Door-to-Door Program, while XX% utilized the Circuit Program. </li>
+<li>XX% of total rides were diabetes-related </li>
+<li>XX participants who were asked to complete the baseline survey reported having diabetes and XX% of these individuals used the MTS Program for a diabetes-related ride</li>
+ </ul>
 
-
-    <div class="column" style="background-color:#bbb;">
-    <p>Some text..
-    Some text..
-Some text..
-Some text..
-Some text..
-Some text..
-Some text..Some text..Some text..Some text..Some text..Some text..Some text..Some text..Some text..</p>
-  </div>
+<center>
+ {% if trend_plot %}
+<div style="width:600;height:500">
+{{ trend_plot|safe }}
 </div>
-</section>
-<section class="oneColumn whiteBg">
+{% endif %}
+</center> 
+
+
+<p> In addition to the daily driver log, up to 100 riders are being surveyed within a day or two - and again three months following - their first MTS ride. These survey data include descriptive information about participant demographics, self-reported health status, and health services utilization, including any changes over time.  The following exhibits provide a select profile of information collected to date. </p>
+
 <h3>Exhibit 2: Participant Demographics</h3>
 
-<p>
-	Data points (from all participants who completed a baseline survey, anticipated n=100):
-Race/ethnicity
-Primary language(s)
-Age
-Gender/sex
-Health insurance status
-Draft template narrative: 
-A majority of participants who completed a baseline survey reported that they were Hispanic (xx%), while other ethnic/racial groups represented included Caucasians (yy%), African Americans (zz%), Asians (qq%), Native Americans (rr%), Pacific Islanders (ss%), and multi-racial participants (tt%).  
-Languages that participants reported speaking at home included English (xx%), Spanish (yy%), Mon-Khmer (zz%), and Punjabi (qq%). In addition, rr% reported speaking other languages at home, including Mandarin, Tagalog, and Russian. 
-XX percent of participants were female, YY% were male, and ZZ percent identified as some other gender.
-Survey respondents ranged in age from XX to YY with an average age of ZZ. 
-Most respondents reported being insured through MediCal (xx%), while other sources of coverage included Healthy Families (yy%), Medicare (zz%), and other insurances (q%).
-</p>
+<ul>
+<li> Majority of participants who completed a baseline survey were Hispanic (XX%)  </li>
+<li> Patients spoke a variety of languages at home, including English (XX%), Spanish (XX%), and Asian or other languages (XX%)  </li>
+<li> Participants were mostly female (XX%) while XX% were male </li>
+<li> The average age was XX (range of XX to XX years old) </li>
+<li> The majority of patients were Medicaid insured (XX%), followed by uninsured (XX%), and privately or other insurance (XX%)</li>
+</ul>
 
-   {% if gender_plot %}
-<div style="width:10;height:500">
-{{ gender_plot|safe }}
-</div>
-{% endif %}
-
-   {% if race_plot %}
-<div style="width:10;height:500">
-{{ race_plot|safe }}
-</div>
-{% endif %}
-
-<h3>Exhibit 3: Health Services Utilization</h3>
+<h3>Exhibit 3: Participant Health Status</h3>
 
 <p>
-	Data points (from all participants who completed a baseline survey, anticipated n=100):
-Main reason for using MTS	
-Transportation problem scale
-Number of health appointments scheduled in past 3 months
-Number of missed appointments past 3 months related to transportation problems
-Use of Hospital ER in past 3 months (yes/no)
-Number of ER visits past 3 months
-Number of health-related visits related to diabetes or pre-diabetes
-Draft template narrative: 
-The top three reasons reported for using MTS included not owning or having access to a car (xx%), not feeling safe taking public transportation (yy%),  and other transportation options being too expensive (zz%). Other reasons given included the lack of good public transportation options (qq%) and being disabled and not able to drive (rr%).
-When asked how much transportation problems have caused them to miss health care appointments, respondents scored an average of 3.8 on a scale of 1 – 5. 
-Survey respondents reported a range of 1 – 4 health appointments scheduled in the past 3 months, with an average of 2.3. XX percent said that they had missed at least one appointment in the past 3 months because of transportation problems, of which yy% reported missing 2 or 3 appointments, and zz% missed 4 or more appointments.
-
-XX percent of respondents had visited a hospital emergency room (ER) in the past three months, of which YY % visited the ER  three or more times.
+<ul>
+<li>The majority of participants reported they have been diagnosed with diabetes (XX%) and another XX% reported being diagnosed with pre-diabetes </li>
+<li> Many respondents were in fair or poor health—XX%. </li>
+</ul>
 </p>
 
-<h3>Exhibit 4: Participant Health Status</h3>
+<h3>Exhibit 4: Health Services Utilization</h3>
 
-<p>Data points (from all participants who completed a baseline survey, anticipated n=100):
-Diagnosed with diabetes (yes/no)
-Diagnosed with prediabetes (yes/no)
-Self-reported health scale (excellent, very good, good, fair, poor)
-Draft template narrative: 
-XX percent of survey respondents reported that they had been diagnosed with diabetes and an additional YY% said they had prediabetes. The majority of respondents (XX%) said they were in fair (xx%) or poor (yy%) health, while the remaining respondents (YY%) reported being in good (zz%), very good (qq%) or excellent (rr%) health. 
+<p>
+<ul>
+<li>The main reason participants reported using MTS was not owning or having access to a car (XX%) </li>
+<li> Participants reported an average score of XX on a scale of 1 to 5 when asked how much transportation problems caused them to miss health care appointments </li>
+<li> Participants reported an average of XX (range of XX to XX) health appointments scheduled in the past 3 months </li>
+<li> XX% of those who scheduled health appointments in the past 3 months missed at least one appointment because of transportation problems </li>
+<li> XX% of participants visited an emergency room in the past 3 months and of these XX% visited 3 times or more </li>
+</ul>
 </p>
-
 
 
 </section>
-			
-		
 			<footer>				
 				<div class="nav">
 					<ul>
