@@ -31,6 +31,7 @@ def transportation(request):
     # total number of people with diabetes visits
     n_p_diab_by_month = d_visit_by_month.groupby(['month']).size().reset_index(name='nPersonsDiab')
     chart1_data = pd.merge(n_persons_by_month, n_p_diab_by_month, on ='month')
+    #sort before cumsum()
     chart1_data['nPersons_cum'] = chart1_data['nPersons'].cumsum()
     chart1_data['nPersonsDiab_cum'] = chart1_data['nPersonsDiab'].cumsum()
 
