@@ -25,6 +25,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     #path('', views.index, name='index'),
     path('', include('transportation.urls')),
+    path('', include('process.urls'))
     #path('diabetes', include('diabetes.urls')),
     #path('nutrition', include('nutrition.urls')),
 ]

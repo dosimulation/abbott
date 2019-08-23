@@ -3,12 +3,20 @@ Version 1.0.0
 Data Processer
 Purpose: Process chart data to the database to save time when viewing charts
 NOTES:
+
+08/22/2019 - Added a new application named process. Process script cut-pasted to this application. 
+dashboard/URLS has been edited to include path('process.urls')
+
+A question, do I want to really have a view for process? I assume not.
+
+
 #SAVE TO DATABASE (with SQL) Are we using lite, or postgresql?
 is chart1_data.to_sql() useful?
 Saving the charts is another option but causes bloat
 
 """
 from internal.models import *
+from transportation.models import *
 import pandas as pd
 import pdb
 
